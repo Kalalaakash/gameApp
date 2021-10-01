@@ -1,7 +1,7 @@
 body {
   font: 14px "Century Gothic", Futura, sans-serif;
   margin: 20px;
-  background-color: darkcyan;
+  background-color: cyan;
 }
 
 ol, ul {
@@ -35,7 +35,7 @@ button {
   justify-content: center;
   align-items: center;
   background: #fff;
-  border: 2px solid #999;
+  border: 2px solid #997;
   border-radius: 5px;
   float: left;
   font-size: 24px;
